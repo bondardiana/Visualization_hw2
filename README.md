@@ -1,2 +1,2 @@
 # Visualization_hw2
-# open hw_02-2.pdf 
+# to check my homework - open hw_02-2.pdf 
